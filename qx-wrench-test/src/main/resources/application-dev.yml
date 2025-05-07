@@ -1,0 +1,19 @@
+server:
+  port: 9191
+
+# 小傅哥扳手通用组件配置
+qx:
+  wrench:
+    config:
+      system: test-system
+      register:
+        # redis host
+        host: 117.72.48.228
+        # redis port
+        port: 16379
+
+# 日志
+logging:
+  level:
+    root: info
+  config: classpath:logback-spring.xml
