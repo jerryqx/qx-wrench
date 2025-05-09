@@ -52,10 +52,13 @@
             <artifactId>qx-wrench-starter-dynamic-config-center</artifactId>
             <version>1.0</version>
         </dependency>
+        <dependency>
+            <groupId>cn.qx.wrench</groupId>
+            <artifactId>qx-wrench-starter-design-framework</artifactId>
+            <version>1.0</version>
+        </dependency>
 
     </dependencies>
-
-
 
     <build>
         <finalName>xfg-wrench-test-app</finalName>
