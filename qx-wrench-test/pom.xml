@@ -57,7 +57,23 @@
             <artifactId>qx-wrench-starter-design-framework</artifactId>
             <version>1.0</version>
         </dependency>
-
+        <dependency>
+            <groupId>cn.qx.wrench</groupId>
+            <artifactId>qx-wrench-starter-rate-limiter</artifactId>
+            <version>1.0</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>cn.qx.wrench</groupId>
+            <artifactId>qx-wrench-starter-dynamic-config-center</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>cn.qx.wrench</groupId>
+            <artifactId>qx-wrench-starter-rate-limiter</artifactId>
+            <version>1.0</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 
     <build>

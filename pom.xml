@@ -9,6 +9,7 @@
     <module>qx-wrench-starter-dynamic-config-center</module>
     <module>qx-wrench-test</module>
       <module>qx-wrench-starter-design-framework</module>
+      <module>qx-wrench-starter-rate-limiter</module>
   </modules>
 
   <properties>
